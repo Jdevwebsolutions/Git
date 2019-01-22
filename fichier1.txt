@@ -1,1 +1,2 @@
 contenu fichier1
+message2 de fichier1
